@@ -17,8 +17,6 @@ This is a basic calculator web application built using **HTML**, **CSS**, and **
 
 You can open the `index.html` file in any modern web browser to see it in action.
 
-## Project Structure
-
 
 ## How to Use
 
@@ -31,9 +29,6 @@ You can open the `index.html` file in any modern web browser to see it in action
    - `Div(/)`
 4. The result will be displayed in the "Answer" field.
 
-## Screenshot
-
-> Replace this with your screenshot (optional)
 
 ## Notes
 
